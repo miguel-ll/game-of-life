@@ -2,7 +2,7 @@
 - **Pygame**
 - **Numpy**
 ---
-### Usage
+### Usage and commands
 
 ```
 python gol.py
