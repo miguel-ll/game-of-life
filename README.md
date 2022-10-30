@@ -1,7 +1,6 @@
 ### Requirements
-> **Pygame** : pip install pygame
-
-> **Numpy**  : pip install numpy
+- **Pygame**
+- **Numpy**
 ---
 ### Usage
 
