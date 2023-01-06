@@ -1,8 +1,12 @@
-### Requirements
-- **Pygame**
-- **Numpy**
----
-### Usage and commands
+# game-of-life
+
+An implementation of Conway's game of life.
+
+## Requirements
+- Pygame
+- Numpy
+
+## Usage
 
 ```
 python gol.py
